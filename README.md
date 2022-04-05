@@ -34,7 +34,7 @@ IF YOU ARE NOT ABLE TO INSTALL MONGODB ON YOUR MACHINE, YOU CAN USE THIS HOSTED 
 
 (IT'S DEPLOYED ON HEROKU FREE PACK, IT TAKES 10-15 SECONDS TO RUN IT FIRST TIME)
 
-Link is https://note-it-web-app.herokuapp.com/
+Link is https://abdulboriyweb2.herokuapp.com
 
 
 
@@ -70,9 +70,9 @@ Link is https://note-it-web-app.herokuapp.com/
 
 
 ## 🔗 Links
-Git hub repo link -- https://github.com/MrHumble21/nodejs-note-taking-app
+Git hub repo link -- https://github.com/MrHumble21/note_appCW2
 
-Hosted link -- https://note-it-web-app.herokuapp.com/
+Hosted link -- https://abdulboriyweb2.herokuapp.com
 ## License
 
 [ISC](https://choosealicense.com/licenses/ISC/)
